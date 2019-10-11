@@ -1,6 +1,6 @@
 # HADA
 
-HADA (Hiearachical Adversarial Domain Alignment) for brain graph prediction code will be uploaded soon. Please contact alaa.bessadok@gmail.comor irekik@itu.edu.tr for more details. Thanks.
+HADA (Hiearachical Adversarial Domain Alignment) for brain graph prediction code will be uploaded soon. Please contact alaa.bessadok@gmail.com or irekik@itu.edu.tr for more details. Thanks.
 
 For more, check the following YouTube video:
 https://www.youtube.com/watch?v=OJOtLy9Xd34&t=10s
