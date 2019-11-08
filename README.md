@@ -50,16 +50,10 @@ Wang, B., Ramazzotti, D., De Sano, L., Zhu, J., Pierson, E., Batzoglou, S.: SIML
 @inproceedings{bessadok2019hierarchical,
 
   title={Hierarchical Adversarial Connectomic Domain Alignment for Target Brain Graph Prediction and Classification from a Source Graph},
-  
   author={Bessadok, Alaa and Mahjoub, Mohamed Ali and Rekik, Islem},
-  
   booktitle={International Workshop on PRedictive Intelligence In MEdicine},
-  
   pages={105--114},
-  
   year={2019},
-  
   organization={Springer}
-  
 }
 
