@@ -21,7 +21,7 @@ Scipy
 SIMLR
 
 # Run from Jupyter Notebook
-We provide a demo code for the usage of HADA for target graph prediction from a source graph. In test_graph_prediction.py we run HADA on a simulated dataset with 150 subjects and each has 595 features (very similar to the connectomic data we used in our paper).
+We provide a demo code for the usage of HADA for target graph prediction from a source graph. In HADA.py we run HADA on a simulated dataset with 150 subjects and each has 595 features (very similar to the connectomic data we used in our paper).
 
 run HADA.py
 
