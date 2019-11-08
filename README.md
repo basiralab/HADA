@@ -28,6 +28,7 @@ run HADA.py
 # YouTube videos to install and run the code and understand how the method works
 
 To install and run HADA, check the following YouTube video:
+https://www.youtube.com/watch?v=Pz3XUYjNxBE&feature=youtu.be
 
 To learn about how HADA works, check the following YouTube video:
 https://www.youtube.com/watch?v=OJOtLy9Xd34&t=10s
