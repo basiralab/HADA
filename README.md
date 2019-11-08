@@ -25,7 +25,7 @@ We provide a demo code for the usage of HADA for target graph prediction from a 
 
 run HADA.py
 
-# YouTube videos to install and run the code and understand how the method works
+# YouTube videos to install and run the code and understand how HADA works
 
 To install and run HADA, check the following YouTube video:
 https://www.youtube.com/watch?v=Pz3XUYjNxBE&feature=youtu.be
