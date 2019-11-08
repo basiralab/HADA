@@ -35,8 +35,8 @@ https://www.youtube.com/watch?v=OJOtLy9Xd34&t=10s
 
 # Data
 In order to use our framework, you need to provide:
-•	a SourceGraph and a TargetGraph matrices each has a size of (n * m). We denote n the total number of subjects in the dataset and m the number of features.
-•	a Label list denoting the label of each subject in the dataset such as healthy or disordered.
+•	a sourceGraph and a targetGraph matrices each has a size of (n * m). We denote n the total number of subjects in the dataset and m the number of features.
+•	a label list denoting the label of each subject in the dataset such as healthy or disordered.
 
 # Related references
 
