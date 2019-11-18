@@ -34,9 +34,9 @@ To learn about how HADA works, check the following YouTube video:
 https://www.youtube.com/watch?v=OJOtLy9Xd34&t=10s
 
 # Data
-In order to use our framework, you need to provide:
-•	a sourceGraph and a targetGraph matrices each has a size of (n * m). We denote n the total number of subjects in the dataset and m the number of features.
-•	a label list denoting the label of each subject in the dataset such as healthy or disordered.
+In order to use our framework, you need to provide:<br/>
+•	a sourceGraph and a targetGraph matrices, each of size (n * m).  n denotes the total number of subjects in the dataset and m the number of features.<br/>
+•	a label list including the label of each subject in the dataset such as healthy or disordered.
 
 # Related references
 
