@@ -57,3 +57,5 @@ Wang, B., Ramazzotti, D., De Sano, L., Zhu, J., Pierson, E., Batzoglou, S.: SIML
   organization={Springer}<br/>
 }
 
+Paper link on ResearchGate: https://www.researchgate.net/publication/336430159_Hierarchical_Adversarial_Connectomic_Domain_Alignment_for_Target_Brain_Graph_Prediction_and_Classification_from_a_Source_Graph
+
